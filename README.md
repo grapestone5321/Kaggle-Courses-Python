@@ -23,7 +23,10 @@ Working with strings and dictionaries, two fundamental Python data types
 ### 7 Working with External Libraries
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
+### Bonus Lessons
+Apply what you've learned
 
+These lessons aren’t required for your certificate, but bridge the gap between courses and applying your new skills!
 
 
 
