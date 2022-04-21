@@ -5,6 +5,17 @@
 ### 1 Hello, Python
 A quick introduction to Python syntax, variable assignment, and numbers
 
+- Hello, Python!
+
+- Numbers and arithmetic in Python
+
+- Order of operations
+
+- Builtin functions for working with numbers
+
+
+
+
 ### 2 Functions and Getting Help
 Calling functions and defining our own, and using Python's builtin documentation
 
