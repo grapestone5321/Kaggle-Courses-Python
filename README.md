@@ -19,6 +19,19 @@ A quick introduction to Python syntax, variable assignment, and numbers
 ### 2 Functions and Getting Help
 Calling functions and defining our own, and using Python's builtin documentation
 
+- Getting Help
+
+- Defining functions
+
+- Docstrings
+
+- Functions that don't return
+
+- Default arguments
+
+- Functions Applied to Functions
+
+
 ### 3 Booleans and Conditionals
 Using booleans for branching logic
 
