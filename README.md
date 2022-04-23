@@ -35,6 +35,20 @@ Calling functions and defining our own, and using Python's builtin documentation
 ### 3 Booleans and Conditionals
 Using booleans for branching logic
 
+- Booleans
+
+- Comparison Operations
+
+- Combining Boolean Values
+
+- Conditionals
+
+- Boolean conversion
+
+
+
+
+
 ### 4 Lists
 Lists and the things you can do with them. Includes indexing, slicing and mutating
 
