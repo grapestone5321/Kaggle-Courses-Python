@@ -87,6 +87,9 @@ Working with strings and dictionaries, two fundamental Python data types
 ### 7 Working with External Libraries
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
+In this tutorial, you will learn about ***imports*** in Python, get some tips for working with unfamiliar libraries (and the objects they return), and dig into ***operator overloading***.
+
+
 ### Bonus Lessons
 Apply what you've learned
 
