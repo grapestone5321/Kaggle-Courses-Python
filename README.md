@@ -95,6 +95,30 @@ Apply what you've learned
 
 These lessons aren’t required for your certificate, but bridge the gap between courses and applying your new skills!
 
+- Imports
+
+- Other import syntax
+
+- Submodules
+
+- Oh the places you'll go, oh the objects you'll see
+
+- Three tools for understanding strange objects
+
+1: type()
+
+2: dir()
+
+3: help()
+
+- Operator overloading
+
+- When does 1 + 1 not equal 2?
+
+- Curious how it all works?
+
+
+
 
 
 -------
