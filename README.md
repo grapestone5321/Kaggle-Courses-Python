@@ -90,11 +90,6 @@ Imports, operator overloading, and survival tips for venturing into the world of
 In this tutorial, you will learn about ***imports*** in Python, get some tips for working with unfamiliar libraries (and the objects they return), and dig into ***operator overloading***.
 
 
-### Bonus Lessons
-Apply what you've learned
-
-These lessons aren’t required for your certificate, but bridge the gap between courses and applying your new skills!
-
 - Imports
 
 - Other import syntax
@@ -105,17 +100,23 @@ These lessons aren’t required for your certificate, but bridge the gap between
 
 - Three tools for understanding strange objects
 
-1: type()
-
-2: dir()
-
-3: help()
+      1: type()
+  
+      2: dir()
+ 
+      3: help()
 
 - Operator overloading
 
 - When does 1 + 1 not equal 2?
 
 - Curious how it all works?
+
+
+### Bonus Lessons
+Apply what you've learned
+
+These lessons aren’t required for your certificate, but bridge the gap between courses and applying your new skills!
 
 
 
