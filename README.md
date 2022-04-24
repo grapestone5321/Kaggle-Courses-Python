@@ -81,8 +81,34 @@ Lists and the things you can do with them. Includes indexing, slicing and mutati
 ### 5 Loops and List Comprehensions
 For and while loops, and a much-loved Python feature: list comprehensions
 
+- Loops
+
+      range()
+      
+      while loops
+      
+- List comprehensions
+
+
+
 ### 6 Strings and Dictionaries
 Working with strings and dictionaries, two fundamental Python data types
+
+- Strings
+
+- String syntax
+
+- Strings are sequences
+
+- String methods
+
+- Going between strings and lists: .split() and .join()
+
+- Building strings with .format()
+
+- Dictionaries
+
+
 
 ### 7 Working with External Libraries
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
