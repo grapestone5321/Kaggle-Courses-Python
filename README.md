@@ -52,6 +52,32 @@ Using booleans for branching logic
 ### 4 Lists
 Lists and the things you can do with them. Includes indexing, slicing and mutating
 
+- Lists
+
+- Indexing
+
+- Slicing
+
+- Changing lists
+
+- List functions
+
+- Interlude: objects
+
+- List methods
+
+- Searching lists
+
+- Tuples
+
+
+
+
+
+
+
+
+
 ### 5 Loops and List Comprehensions
 For and while loops, and a much-loved Python feature: list comprehensions
 
