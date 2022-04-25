@@ -23,6 +23,10 @@ Calling functions and defining our own, and using Python's builtin documentation
 
 - Getting Help
 
+The help() function is possibly the most important Python function you can learn. 
+
+If you can remember how to use help(), you hold the key to understanding most other functions.
+
 - Defining functions
 
 - Docstrings
