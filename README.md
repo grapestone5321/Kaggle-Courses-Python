@@ -102,6 +102,12 @@ Working with strings and dictionaries, two fundamental Python data types
 
 - Strings
 
+One place where the Python language really shines is in the manipulation of strings. 
+
+This section will cover some of Python's built-in string methods and formatting operations.
+
+Such string manipulation patterns come up often in the context of data science work.
+
 - String syntax
 
 - Strings are sequences
