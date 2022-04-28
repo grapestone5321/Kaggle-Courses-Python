@@ -13,6 +13,10 @@ Python was named for the British comedy troupe Monty Python, so we'll make our f
 
 - Order of operations
 
+The arithmetic we learned in primary school has conventions about the order in which operations are evaluated. 
+
+Some remember these by a mnemonic such as PEMDAS - Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
+
 - Builtin functions for working with numbers
 
 
