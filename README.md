@@ -70,6 +70,10 @@ Lists and the things you can do with them. Includes indexing, slicing and mutati
 
 - Changing lists
 
+Lists are "mutable", meaning they can be modified "in place".
+
+One way to modify a list is to assign to an index or slice expression.
+
 - List functions
 
 - Interlude: objects
