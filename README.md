@@ -84,9 +84,11 @@ One way to modify a list is to assign to an index or slice expression.
 
 - Tuples
 
+Tuples are almost exactly the same as lists. They differ in just two ways.
 
+***1***: The syntax for creating them uses parentheses instead of square brackets
 
-
+***2***: They cannot be modified (they are immutable).
 
 
 
