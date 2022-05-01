@@ -35,6 +35,10 @@ If you can remember how to use help(), you hold the key to understanding most ot
 
 - Docstrings
 
+The docstring is a triple-quoted string (which may span multiple lines) that comes immediately after the header of a function. 
+
+When we call help() on a function, it shows the docstring.
+
 - Functions that don't return
 
 - Default arguments
