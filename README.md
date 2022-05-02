@@ -68,6 +68,8 @@ Lists and the things you can do with them. Includes indexing, slicing and mutati
 
 - Lists
 
+Lists in Python represent ordered sequences of values.
+
 - Indexing
 
 - Slicing
