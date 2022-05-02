@@ -105,6 +105,8 @@ For and while loops, and a much-loved Python feature: list comprehensions
 
 - Loops
 
+Loops are a way to repeatedly execute some code.
+
       range()
       
       while loops
