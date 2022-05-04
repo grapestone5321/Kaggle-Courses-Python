@@ -110,7 +110,11 @@ Loops are a way to repeatedly execute some code.
       range()
       
       while loops
-      
+
+while loops:
+
+The other type of loop in Python is a while loop, which iterates until some condition is met.
+
 - List comprehensions
 
 
