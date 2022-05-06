@@ -120,6 +120,7 @@ The other type of loop in Python is a while loop, which iterates until some cond
 - List comprehensions
 
 ***The Zen of Python***
+https://en.wikipedia.org/wiki/Zen_of_Python
 
 Readability counts.
 
