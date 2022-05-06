@@ -119,7 +119,13 @@ The other type of loop in Python is a while loop, which iterates until some cond
 
 - List comprehensions
 
+***The Zen of Python***
 
+Readability counts.
+
+Explicit is better than implicit.
+
+So, use these tools to make compact readable programs. But when you have to choose, favor code that is easy for others to understand.
 
 ### 6 Strings and Dictionaries
 Working with strings and dictionaries, two fundamental Python data types
