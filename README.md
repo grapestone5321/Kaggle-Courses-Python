@@ -141,6 +141,10 @@ Such string manipulation patterns come up often in the context of data science w
 
 - String syntax
 
+Double quotes are convenient if your string contains a single quote character (e.g. representing an apostrophe).
+
+Similarly, it's easy to create a string that contains double-quotes if you wrap it in single quotes.
+
 - Strings are sequences
 
 - String methods
