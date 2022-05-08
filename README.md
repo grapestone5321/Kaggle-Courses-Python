@@ -13,6 +13,8 @@ Variable assignment: Here we create a variable called spam_amount and assign it 
 
 - Numbers and arithmetic in Python
 
+"Number" is a fine informal name for the kind of thing, but if we wanted to be more technical, we could ask Python how it would describe the type of thing
+
 - Order of operations
 
 The arithmetic we learned in primary school has conventions about the order in which operations are evaluated. 
