@@ -121,6 +121,8 @@ The other type of loop in Python is a while loop, which iterates until some cond
 
 - List comprehensions
 
+List comprehensions are one of Python's most beloved and unique features. 
+
 ***The Zen of Python***
 https://en.wikipedia.org/wiki/Zen_of_Python
 
