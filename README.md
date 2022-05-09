@@ -169,6 +169,8 @@ In this tutorial, you will learn about ***imports*** in Python, get some tips fo
 
 - Imports
 
+So far we've talked about types and functions which are built-in to the language.
+
 - Other import syntax
 
 - Submodules
