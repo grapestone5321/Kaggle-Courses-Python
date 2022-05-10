@@ -173,6 +173,8 @@ So far we've talked about types and functions which are built-in to the language
 
 - Other import syntax
 
+If we know we'll be using functions in math frequently we can import it under a shorter alias to save some typing (though in this case "math" is already pretty short).
+
 - Submodules
 
 - Oh the places you'll go, oh the objects you'll see
