@@ -177,6 +177,8 @@ If we know we'll be using functions in math frequently we can import it under a 
 
 - Submodules
 
+We've seen that modules contain variables which can refer to functions or values. Something to be aware of is that they can also have variables referring to other modules.
+
 - Oh the places you'll go, oh the objects you'll see
 
 - Three tools for understanding strange objects
