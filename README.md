@@ -181,6 +181,10 @@ We've seen that modules contain variables which can refer to functions or values
 
 - Oh the places you'll go, oh the objects you'll see
 
+So after 6 lessons, you're a pro with ints, floats, bools, lists, strings, and dicts (right?).
+
+Even if that were true, it doesn't end there. As you work with various libraries for specialized tasks, you'll find that they define their own types which you'll have to learn to work with. For example, if you work with the graphing library matplotlib, you'll be coming into contact with objects it defines which represent Subplots, Figures, TickMarks, and Annotations. pandas functions will give you DataFrames and Series.
+
 - Three tools for understanding strange objects
 
       1: type()
