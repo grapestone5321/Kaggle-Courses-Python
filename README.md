@@ -151,6 +151,8 @@ Similarly, it's easy to create a string that contains double-quotes if you wrap 
 
 - Strings are sequences
 
+Strings can be thought of as sequences of characters. Almost everything we've seen that we can do to a list, we can also do to a string.
+
 - String methods
 
 - Going between strings and lists: .split() and .join()
