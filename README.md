@@ -23,7 +23,7 @@ Some remember these by a mnemonic such as PEMDAS - Parentheses, Exponents, Multi
 
 - Builtin functions for working with numbers
 
-
+min and max return the minimum and maximum of their arguments, respectively...
 
 
 ### 2 Functions and Getting Help
