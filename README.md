@@ -37,6 +37,8 @@ If you can remember how to use help(), you hold the key to understanding most ot
 
 - Defining functions
 
+Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
+
 - Docstrings
 
 The docstring is a triple-quoted string (which may span multiple lines) that comes immediately after the header of a function. 
