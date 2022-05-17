@@ -53,6 +53,10 @@ You can supply functions as arguments to other functions.
 
 - Default arguments
 
+When we called help(print), we saw that the print function has several optional arguments. 
+
+For example, we can specify a value for sep to put some special string in between our printed arguments.
+
 - Functions Applied to Functions
 
 
