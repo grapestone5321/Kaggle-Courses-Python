@@ -47,6 +47,10 @@ When we call help() on a function, it shows the docstring.
 
 - Functions that don't return
 
+Here's something that's powerful, though it can feel very abstract at first. 
+
+You can supply functions as arguments to other functions. 
+
 - Default arguments
 
 - Functions Applied to Functions
