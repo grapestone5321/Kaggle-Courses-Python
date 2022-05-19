@@ -59,6 +59,7 @@ For example, we can specify a value for sep to put some special string in betwee
 
 - Functions Applied to Functions
 
+Here's something that's powerful, though it can feel very abstract at first. You can supply functions as arguments to other functions.
 
 ### 3 Booleans and Conditionals
 Using booleans for branching logic
