@@ -73,6 +73,12 @@ Python has a type of variable called bool. It has two possible values: True and 
 
 - Combining Boolean Values
 
+You can combine boolean values using the standard concepts of "and", "or", and "not". 
+
+In fact, the words to do this are: and, or, and not.
+
+With these, we can make our can_run_for_president function more accurate.
+
 - Conditionals
 
 - Boolean conversion
