@@ -71,6 +71,8 @@ Python has a type of variable called bool. It has two possible values: True and 
 
 - Comparison Operations
 
+Comparison operators can be combined with the arithmetic operators we've already seen to express a virtually limitless range of mathematical tests. For example, we can check if a number is odd by checking that the modulus with 2 returns 1
+
 - Combining Boolean Values
 
 You can combine boolean values using the standard concepts of "and", "or", and "not". 
