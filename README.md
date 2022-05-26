@@ -83,6 +83,10 @@ With these, we can make our can_run_for_president function more accurate.
 
 - Conditionals
 
+Booleans are most useful when combined with conditional statements, using the keywords if, elif, and else.
+
+Conditional statements, often referred to as if-then statements, let you control what pieces of code are run based on the value of some Boolean condition. 
+
 - Boolean conversion
 
 
