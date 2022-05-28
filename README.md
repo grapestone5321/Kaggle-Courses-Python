@@ -102,6 +102,10 @@ Lists in Python represent ordered sequences of values.
 
 - Indexing
 
+You can access individual list elements with square brackets.
+
+Which planet is closest to the sun? Python uses zero-based indexing, so the first element has index 0.
+
 - Slicing
 
 - Changing lists
