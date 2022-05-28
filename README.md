@@ -89,7 +89,7 @@ Conditional statements, often referred to as if-then statements, let you control
 
 - Boolean conversion
 
-
+We've seen int(), which turns things into ints, and float(), which turns things into floats, so you might not be surprised to hear that Python has a bool() function which turns things into bools.
 
 
 
