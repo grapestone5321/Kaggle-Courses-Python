@@ -116,6 +116,10 @@ One way to modify a list is to assign to an index or slice expression.
 
 - List functions
 
+Python has several useful functions for working with lists.
+
+len gives the length of a list.
+
 - Interlude: objects
 
 - List methods
