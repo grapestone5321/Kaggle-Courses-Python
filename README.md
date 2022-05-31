@@ -108,6 +108,8 @@ Which planet is closest to the sun? Python uses zero-based indexing, so the firs
 
 - Slicing
 
+What are the first three planets? We can answer this question using slicing.
+
 - Changing lists
 
 Lists are "mutable", meaning they can be modified "in place".
