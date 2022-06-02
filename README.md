@@ -124,6 +124,14 @@ len gives the length of a list.
 
 - Interlude: objects
 
+I've used the term 'object' a lot so far - you may have even read that everything in Python is an object. What does that mean?
+
+In short, objects carry some things around with them. You access that stuff using Python's dot syntax.
+
+For example, numbers in Python carry around an associated variable called imag representing their imaginary part. 
+
+(You'll probably never need to use this unless you're doing some very weird math.)
+
 - List methods
 
 - Searching lists
