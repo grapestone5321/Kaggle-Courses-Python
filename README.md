@@ -134,6 +134,8 @@ For example, numbers in Python carry around an associated variable called imag r
 
 - List methods
 
+list.append modifies a list by adding an item to the end.
+
 - Searching lists
 
 - Tuples
