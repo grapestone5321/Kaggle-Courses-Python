@@ -138,6 +138,8 @@ list.append modifies a list by adding an item to the end.
 
 - Searching lists
 
+Where does Earth fall in the order of planets? We can get its index using the list.index method.
+
 - Tuples
 
 Tuples are almost exactly the same as lists. They differ in just two ways.
