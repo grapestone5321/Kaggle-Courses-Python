@@ -203,6 +203,8 @@ Strings can be thought of as sequences of characters. Almost everything we've se
 
 - String methods
 
+Like list, the type str has lots of very useful methods.
+
 - Going between strings and lists: .split() and .join()
 
 - Building strings with .format()
