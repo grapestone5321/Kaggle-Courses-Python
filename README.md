@@ -209,6 +209,8 @@ Like list, the type str has lots of very useful methods.
 
 - Building strings with .format()
 
+Python lets us concatenate strings with the + operator.
+
 - Dictionaries
 
 
