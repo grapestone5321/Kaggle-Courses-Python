@@ -257,6 +257,18 @@ Even if that were true, it doesn't end there. As you work with various libraries
 
 - Operator overloading
 
+We might think that Python strictly polices how pieces of its core syntax behave such as +, <, in, ==, or square brackets for indexing and slicing. 
+
+But in fact, it takes a very hands-off approach. When you define a new type, you can choose how addition works for it, or what it means for an object of that type to be equal to something else.
+
+The designers of lists decided that adding them to numbers wasn't allowed. 
+
+The designers of numpy arrays went a different way (adding the number to each element of the array).
+
+Here are a few more examples of how numpy arrays interact unexpectedly with Python operators (or at least differently from lists).
+
+
+
 - When does 1 + 1 not equal 2?
 
 - Curious how it all works?
