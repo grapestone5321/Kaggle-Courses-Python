@@ -271,6 +271,10 @@ Here are a few more examples of how numpy arrays interact unexpectedly with Pyth
 
 - When does 1 + 1 not equal 2?
 
+Things can get weirder than this. You may have heard of (or even used) tensorflow, a Python library popularly used for deep learning. 
+
+It makes extensive use of operator overloading.
+
 - Curious how it all works?
 
 
