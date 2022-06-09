@@ -213,6 +213,7 @@ Python lets us concatenate strings with the + operator.
 
 - Dictionaries
 
+Dictionaries are a built-in Python data structure for mapping keys to values.
 
 
 ### 7 Working with External Libraries
