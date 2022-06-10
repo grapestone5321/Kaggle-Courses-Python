@@ -207,6 +207,10 @@ Like list, the type str has lots of very useful methods.
 
 - Going between strings and lists: .split() and .join()
 
+str.split() turns a string into a list of smaller strings, breaking on whitespace by default. 
+
+This is super useful for taking you from one big string to a list of words.
+
 - Building strings with .format()
 
 Python lets us concatenate strings with the + operator.
