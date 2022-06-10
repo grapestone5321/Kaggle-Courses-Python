@@ -282,6 +282,7 @@ It makes extensive use of operator overloading.
 
 - Curious how it all works?
 
+Have you ever called help() or dir() on an object and wondered what the heck all those names with the double-underscores were?
 
 ### Bonus Lessons
 Apply what you've learned
