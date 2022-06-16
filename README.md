@@ -7,9 +7,9 @@ This course covers the key Python skills you’ll need, so you can start using P
 
 The course is ideal for someone with some previous coding experience who wants to add Python to their repertoire. 
 
-If you're a first-time coder, you are encouraged to check out our Intro to Programming course, which is designed for complete beginners who would like to get started with Python.
+If you're a first-time coder, you are encouraged to check out our ***Intro to Programming course***, which is designed for complete beginners who would like to get started with Python.
 
-We'll start with a brief overview of Python syntax, variable assignment, and arithmetic operators.
+We'll start with a brief overview of ***Python syntax, variable assignment, and arithmetic operators***.
 
 
 
