@@ -18,7 +18,7 @@ A quick introduction to Python syntax, variable assignment, and numbers
 
 - Hello, Python!
 
-Python was named for the British comedy troupe Monty Python, so we'll make our first Python program a homage to their skit about Spam.
+Python was named for the British comedy troupe ***Monty Python***, so we'll make our first Python program a homage to their skit about Spam.
 
 Variable assignment: Here we create a variable called spam_amount and assign it the value of 0 using =, which is called the assignment operator.
 
