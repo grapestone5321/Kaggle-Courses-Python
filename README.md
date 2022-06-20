@@ -26,6 +26,11 @@ Python was named for the British comedy troupe ***Monty Python***, so we'll make
 
 ***Function calls:***. print is a Python function that displays the value passed to it on the screen. We call functions by putting parentheses after their name, and putting the inputs (or arguments) to the function in those parentheses.
 
+      # Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
+      spam_amount = spam_amount + 4
+
+The first line above is a comment. In Python, comments begin with the # symbol.
+
 - Numbers and arithmetic in Python
 
 "Number" is a fine informal name for the kind of thing, but if we wanted to be more technical, we could ask Python how it would describe the type of thing
