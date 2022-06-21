@@ -29,7 +29,7 @@ Python was named for the British comedy troupe ***Monty Python***, so we'll make
       # Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
       spam_amount = spam_amount + 4
 
-The first line above is a comment. In Python, comments begin with the # symbol.
+The first line above is a ***comment***. In Python, comments begin with the # symbol.
 
 - Numbers and arithmetic in Python
 
