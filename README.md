@@ -49,6 +49,8 @@ abs returns the absolute value of an argument.
 
 In addition to being the names of Python's two main numerical types, int and float can also be called as functions which convert their arguments to the corresponding type.
 
+The colon (:) at the end of the if line indicates that a new ***code block*** is starting. Subsequent lines which are indented are part of that code block.
+
 ### 2 Functions and Getting Help
 Calling functions and defining our own, and using Python's builtin documentation
 
