@@ -33,7 +33,7 @@ The first line above is a ***comment***. In Python, comments begin with ***the #
 
 - Numbers and arithmetic in Python
 
-"Number" is a fine informal name for the kind of thing, but if we wanted to be more technical, we could ask Python how it would describe the type of thing
+***"Number"*** is a fine informal name for the kind of thing, but if we wanted to be more technical, we could ask Python how it would describe the type of thing
 
 - Order of operations
 
