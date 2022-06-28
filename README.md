@@ -51,7 +51,7 @@ In addition to being the names of Python's two main numerical types, int and flo
 
 ***The colon (:)*** at the end of the if line indicates that a new ***code block*** is starting. Subsequent lines which are indented are part of that code block.
 
-The * operator can be used to multiply two numbers (3 * 3 evaluates to 9), but we can also multiply a string by a number, to get a version that's been repeated that many times. 
+***The * operator*** can be used to multiply two numbers (3 * 3 evaluates to 9), but we can also multiply a string by a number, to get a version that's been repeated that many times. 
 
 Python offers a number of cheeky little time-saving tricks like this where operators like * and + have a different meaning depending on what kind of thing they're applied to. (The technical term for this is operator overloading.)
 
