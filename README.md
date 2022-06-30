@@ -43,7 +43,7 @@ Some remember these by a mnemonic such as ***PEMDAS*** - Parentheses, Exponents,
 
 - Builtin functions for working with numbers
 
-min and max return the minimum and maximum of their arguments, respectively...
+***min and max*** return the minimum and maximum of their arguments, respectively...
 
 abs returns the absolute value of an argument.
 
