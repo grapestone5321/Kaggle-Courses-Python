@@ -31,6 +31,8 @@ Python was named for the British comedy troupe ***Monty Python***, so we'll make
 
 The first line above is a ***comment***. In Python, comments begin with ***the # symbol***.
 
+Next we see an example of reassignment. Reassigning the value of an existing variable looks just the same as creating a variable - it still uses ***the = assignment operator***.
+
 - Numbers and arithmetic in Python
 
 ***"Number"*** is a fine informal name for the kind of thing, but if we wanted to be more technical, we could ask Python how it would describe the type of thing
