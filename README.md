@@ -49,7 +49,7 @@ Some remember these by a mnemonic such as ***PEMDAS*** - Parentheses, Exponents,
 
 ***abs*** returns the absolute value of an argument.
 
-In addition to being the names of Python's two main numerical types, int and float can also be called as functions which convert their arguments to the corresponding type.
+In addition to being the names of Python's two main numerical types, ***int and float*** can also be called as functions which convert their arguments to the corresponding type.
 
 ***The colon (:)*** at the end of the if line indicates that a new ***code block*** is starting. Subsequent lines which are indented are part of that code block.
 
