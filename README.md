@@ -37,6 +37,8 @@ Next we see an example of reassignment. Reassigning the value of an existing var
 
 ***"Number"*** is a fine informal name for the kind of thing, but if we wanted to be more technical, we could ask Python how it would describe the type of thing.
 
+***The // operator*** gives us a result that's rounded down to the next integer.
+
 - Order of operations
 
 The arithmetic we learned in primary school has conventions about the order in which operations are evaluated. 
