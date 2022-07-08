@@ -24,7 +24,7 @@ Python was named for the British comedy troupe ***Monty Python***, so we'll make
 
 ***Variable assignment:*** Here we create a variable called spam_amount and assign it the value of 0 using ***=***, which is called ***the assignment operator***.
 
-***Function calls:***. print is a Python function that displays the value passed to it on the screen. We call functions by putting parentheses after their name, and putting the inputs (or arguments) to the function in those parentheses.
+***Function calls:***. ***print*** is a Python function that displays the value passed to it on the screen. We call functions by putting parentheses after their name, and putting the inputs (or arguments) to the function in those parentheses.
 
       # Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
       spam_amount = spam_amount + 4
