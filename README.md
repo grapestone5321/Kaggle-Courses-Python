@@ -62,6 +62,10 @@ Python offers a number of cheeky little time-saving tricks like this where opera
 ### 2 Functions and Getting Help
 Calling functions and defining our own, and using Python's builtin documentation
 
+You've already seen and used functions such as print and abs. But Python has many more functions, and defining your own functions is a big part of python programming.
+
+In this lesson, you will learn more about using and defining functions.
+
 - Getting Help
 
 The help() function is possibly the most important Python function you can learn. 
