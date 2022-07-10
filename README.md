@@ -68,7 +68,7 @@ In this lesson, you will learn more about using and defining functions.
 
 - Getting Help
 
-The help() function is possibly the most important Python function you can learn. 
+***The help() function*** is possibly the most important Python function you can learn. 
 
 If you can remember how to use help(), you hold the key to understanding most other functions.
 
