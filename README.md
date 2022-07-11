@@ -66,12 +66,16 @@ You've already seen and used functions such as print and abs. But Python has man
 
 In this lesson, you will learn more about using and defining functions.
 
+
 - Getting Help
 
 ***The help() function*** is possibly the most important Python function you can learn. 
 
 If you can remember how to use help(), you hold the key to understanding most other functions.
 
+Here is an example:
+
+      help(round)
 - Defining functions
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
