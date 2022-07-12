@@ -76,6 +76,11 @@ If you can remember how to use help(), you hold the key to understanding most ot
 Here is an example:
 
       help(round)
+      
+Help on built-in function round in module builtins:
+
+round(number, ndigits=None)
+      
 - Defining functions
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
