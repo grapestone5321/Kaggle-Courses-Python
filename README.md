@@ -80,7 +80,14 @@ Here is an example:
 Help on built-in function round in module builtins:
 
 round(number, ndigits=None)
-      
+ 
+Round a number to a given precision in decimal digits.
+    
+    The return value is an integer if ndigits is omitted or None.  Otherwise
+    the return value has the same type as the number.  ndigits may be negative.
+ 
+ 
+ 
 - Defining functions
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
