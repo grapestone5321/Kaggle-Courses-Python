@@ -87,7 +87,11 @@ The return value is an integer if ndigits is omitted or None.
 
 Otherwise the return value has the same type as the number.  ndigits may be negative.
  
- 
+help() displays two things:
+
+1. the header of that function round(number, ndigits=None). In this case, this tells us that round() takes an argument we can describe as number. Additionally, we can optionally give a separate argument which could be described as ndigits.
+
+2. A brief English description of what the function does.
  
 - Defining functions
 
