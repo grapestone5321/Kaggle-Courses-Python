@@ -93,6 +93,11 @@ help() displays two things:
 
 2. A brief English description of what the function does.
  
+***Common pitfall***: when you're looking up a function, remember to pass in the name of the function itself, and not the result of calling that function.
+
+What happens if we invoke help on a call to the function round()? Unhide the output of the cell below to see.
+
+
 - Defining functions
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
