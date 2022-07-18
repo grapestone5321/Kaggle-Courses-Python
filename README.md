@@ -97,7 +97,8 @@ help() displays two things:
 
 What happens if we invoke help on a call to the function ***round()***? Unhide the output of the cell below to see.
 
-
+      help(round(-2.01))
+      
 - Defining functions
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
