@@ -95,7 +95,7 @@ help() displays two things:
  
 ***Common pitfall***: when you're looking up a function, remember to pass in the name of the function itself, and not the result of calling that function.
 
-What happens if we invoke help on a call to the function round()? Unhide the output of the cell below to see.
+What happens if we invoke help on a call to the function ***round()***? Unhide the output of the cell below to see.
 
 
 - Defining functions
