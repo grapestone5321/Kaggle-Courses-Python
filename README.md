@@ -99,7 +99,7 @@ What happens if we invoke help on a call to the function ***round()***? Unhide t
 
       help(round(-2.01))
  
- Python evaluates an expression like this from the inside out. First it calculates the value of round(-2.01), then it provides help on the output of that expression.
+ Python evaluates an expression like this from the inside out. First it calculates the value of ***round(-2.01)***, then it provides help on the output of that expression.
  
 - Defining functions
 
