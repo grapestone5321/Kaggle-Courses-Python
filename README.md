@@ -100,7 +100,9 @@ What happens if we invoke help on a call to the function ***round()***? Unhide t
       help(round(-2.01))
  
  Python evaluates an expression like this from the inside out. First it calculates the value of ***round(-2.01)***, then it provides help on the output of that expression.
- 
+
+(And it turns out to have a lot to say about integers! After we talk later about objects, methods, and attributes in Python, the help output above will make more sense.)
+
 - Defining functions
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
