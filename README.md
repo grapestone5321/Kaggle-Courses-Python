@@ -109,7 +109,7 @@ Don't worry if the following output looks inscrutable... for now, just see if yo
 
 - Defining functions
 
-Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. Below is a simple example.
+Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. 
 
 - Docstrings
 
