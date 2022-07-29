@@ -113,6 +113,8 @@ Builtin functions are great, but we can only get so far with them before we need
 
 Functions start with a header introduced by the def keyword.
 
+he indented block of code following the ***:*** is run when the function is called.
+
 - Docstrings
 
 The docstring is a triple-quoted string (which may span multiple lines) that comes immediately after the header of a function. 
