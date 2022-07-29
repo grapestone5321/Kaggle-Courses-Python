@@ -111,6 +111,8 @@ Don't worry if the following output looks inscrutable... for now, just see if yo
 
 Builtin functions are great, but we can only get so far with them before we need to start defining our own functions. 
 
+Functions start with a header introduced by the def keyword.
+
 - Docstrings
 
 The docstring is a triple-quoted string (which may span multiple lines) that comes immediately after the header of a function. 
