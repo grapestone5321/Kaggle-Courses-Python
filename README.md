@@ -115,9 +115,9 @@ Functions start with a header introduced by the def keyword.
 
 he indented block of code following the ***:*** is run when the function is called.
 
-return is another keyword uniquely associated with functions. 
+***return*** is another keyword uniquely associated with functions. 
 
-When Python encounters a return statement, it exits the function immediately, and passes the value on the right hand side to the calling context.
+When Python encounters a ***return*** statement, it exits the function immediately, and passes the value on the right hand side to the calling context.
 
 - Docstrings
 
