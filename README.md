@@ -119,6 +119,10 @@ he indented block of code following the ***:*** is run when the function is call
 
 When Python encounters a ***return*** statement, it exits the function immediately, and passes the value on the right hand side to the calling context.
 
+Python isn't smart enough to read my code and turn it into a nice English description. 
+
+However, when I write a function, I can provide a description in what's called the docstring.
+
 - Docstrings
 
 The docstring is a triple-quoted string (which may span multiple lines) that comes immediately after the header of a function. 
