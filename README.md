@@ -121,7 +121,7 @@ When Python encounters a ***return*** statement, it exits the function immediate
 
 Python isn't smart enough to read my code and turn it into a nice English description. 
 
-However, when I write a function, I can provide a description in what's called the docstring.
+However, when I write a function, I can provide a description in what's called the ***docstring***.
 
 - Docstrings
 
