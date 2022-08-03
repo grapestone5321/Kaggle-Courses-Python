@@ -127,7 +127,7 @@ However, when I write a function, I can provide a description in what's called t
 
 The docstring is a triple-quoted string (which may span multiple lines) that comes immediately after the header of a function. 
 
-When we call help() on a function, it shows the docstring.
+When we call ***help()*** on a function, it shows the docstring.
 
 - Functions that don't return
 
