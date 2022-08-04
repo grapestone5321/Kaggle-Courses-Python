@@ -129,6 +129,10 @@ The docstring is a triple-quoted string (which may span multiple lines) that com
 
 When we call ***help()*** on a function, it shows the docstring.
 
+Good programmers use docstrings unless they expect to throw away the code soon after it's used (which is rare). 
+
+So, you should start writing docstrings, too!
+
 - Functions that don't return
 
 Here's something that's powerful, though it can feel very abstract at first. 
