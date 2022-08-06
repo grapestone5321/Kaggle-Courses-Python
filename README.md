@@ -139,6 +139,8 @@ Here's something that's powerful, though it can feel very abstract at first.
 
 You can supply functions as arguments to other functions. 
 
+Python allows us to define such functions. The result of calling them is the special value None. (This is similar to the concept of "null" in other languages.)
+
 - Default arguments
 
 When we called help(print), we saw that the print function has several optional arguments. 
