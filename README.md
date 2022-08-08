@@ -151,6 +151,10 @@ For example, we can specify a value for sep to put some special string in betwee
 
 Here's something that's powerful, though it can feel very abstract at first. You can supply functions as arguments to other functions.
 
+Functions that operate on other functions are called "higher-order functions." 
+
+You probably won't write your own for a little while. But there are higher-order functions built into Python that you might find useful to call.
+
 ### 3 Booleans and Conditionals
 Using booleans for branching logic
 
