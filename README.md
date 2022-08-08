@@ -147,6 +147,10 @@ When we called help(print), we saw that the print function has several optional 
 
 For example, we can specify a value for sep to put some special string in between our printed arguments.
 
+By default, max returns the largest of its arguments. 
+
+But if we pass in a function using the optional key argument, it returns the argument x that maximizes key(x) (aka the 'argmax').
+
 - Functions Applied to Functions
 
 Here's something that's powerful, though it can feel very abstract at first. You can supply functions as arguments to other functions.
