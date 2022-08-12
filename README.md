@@ -163,7 +163,7 @@ But there are higher-order functions built into Python that you might find usefu
 
 By default, ***max*** returns the largest of its arguments. 
 
-But if we pass in a function using the optional key argument, it returns the argument x that maximizes key(x) (aka the 'argmax').
+But if we pass in a function using the optional key argument, it returns the argument x that maximizes ***key(x)*** (aka the 'argmax').
 
 ### 3 Booleans and Conditionals
 Using booleans for branching logic
