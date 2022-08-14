@@ -170,7 +170,7 @@ Using booleans for branching logic
 
 - Booleans
 
-Python has a type of variable called bool. It has two possible values: True and False.
+Python has a type of variable called bool. It has two possible values: ***True*** and ***False***.
 
 - Comparison Operations
 
