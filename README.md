@@ -172,6 +172,10 @@ Using booleans for branching logic
 
 Python has a type of variable called bool. It has two possible values: ***True*** and ***False***.
 
+Rather than putting True or False directly in our code, we usually get boolean values from boolean operators. 
+
+These are operators that answer yes/no questions. We'll go through some of these operators below.
+
 - Comparison Operations
 
 Comparison operators can be combined with the arithmetic operators we've already seen to express a virtually limitless range of mathematical tests. 
