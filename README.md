@@ -174,7 +174,9 @@ Python has a type of variable called bool. It has two possible values: ***True**
 
 Rather than putting ***True*** or ***False*** directly in our code, we usually get boolean values from ***boolean operators***. 
 
-These are operators that answer yes/no questions. We'll go through some of these operators below.
+These are operators that answer yes/no questions. 
+
+We'll go through some of these operators below.
 
 - Comparison Operations
 
