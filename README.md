@@ -180,6 +180,13 @@ We'll go through some of these operators below.
 
 - Comparison Operations
 
+      Operation	Description		            Operation	Description
+       a == b	a equal to b	            a != b	a not equal to b
+       a < b	a less than b	            a > b  	a greater than b
+       a <= b	a less than or equal to b	a >= b	a greater than or equal to b
+
+
+
 Comparison operators can be combined with the arithmetic operators we've already seen to express a virtually limitless range of mathematical tests. 
 
 For example, we can check if a number is odd by checking that the modulus with 2 returns 1.
