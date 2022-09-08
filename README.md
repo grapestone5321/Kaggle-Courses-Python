@@ -205,6 +205,8 @@ In fact, the words to do this are: and, or, and not.
 
 With these, we can make our can_run_for_president function more accurate.
 
+ou could try to memorize the order of precedence, but a safer bet is to just use liberal parentheses. Not only does this help prevent bugs, it makes your intentions clearer to anyone who reads your code.
+
 - Conditionals
 
 Booleans are most useful when combined with conditional statements, using the keywords if, elif, and else.
