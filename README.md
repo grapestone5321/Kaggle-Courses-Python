@@ -214,6 +214,10 @@ Booleans are most useful when combined with conditional statements, using the ke
 
 Conditional statements, often referred to as if-then statements, let you control what pieces of code are run based on the value of some Boolean condition. 
 
+The if and else keywords are often used in other languages; its more unique keyword is elif, a contraction of "else if". 
+
+In these conditional clauses, elif and else blocks are optional; additionally, you can include as many elif statements as you would like.
+
 - Boolean conversion
 
 We've seen int(), which turns things into ints, and float(), which turns things into floats, so you might not be surprised to hear that Python has a bool() function which turns things into bools.
