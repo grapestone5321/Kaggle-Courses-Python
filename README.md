@@ -206,7 +206,7 @@ When you write n = 2 you are changing the value of n.
 
 You can combine boolean values using the standard concepts of "and", "or", and "not". 
 
-In fact, the words to do this are: and, or, and not.
+In fact, the words to do this are: ***and***, ***or***, and ***not***.
 
 With these, we can make our can_run_for_president function more accurate.
 
