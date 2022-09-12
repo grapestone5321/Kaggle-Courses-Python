@@ -214,7 +214,7 @@ ou could try to memorize the order of precedence, but a safer bet is to just use
 
 - Conditionals
 
-Booleans are most useful when combined with conditional statements, using the keywords if, elif, and else.
+Booleans are most useful when combined with conditional statements, using the keywords ***if***, ***elif***, and ***else***.
 
 Conditional statements, often referred to as if-then statements, let you control what pieces of code are run based on the value of some Boolean condition. 
 
