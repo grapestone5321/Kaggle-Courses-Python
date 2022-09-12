@@ -224,7 +224,7 @@ In these conditional clauses, elif and else blocks are optional; additionally, y
 
 - Boolean conversion
 
-We've seen int(), which turns things into ints, and float(), which turns things into floats, so you might not be surprised to hear that Python has a bool() function which turns things into bools.
+We've seen ***int()***, which turns things into ints, and ***float()***, which turns things into floats, so you might not be surprised to hear that Python has a ***bool()*** function which turns things into bools.
 
 
 
